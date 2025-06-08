@@ -112,7 +112,7 @@ export const BtnList = [
   },
   {
     label: "LinkedIn",
-    link: "https://www.linkedin.com/in/prasanna-kumar-kota-b54",
+    link: "https://www.linkedin.com/in/prasanna-kumar-kota-b54b61301",
     icon: "linkedin",
     newTab: true,
   },
